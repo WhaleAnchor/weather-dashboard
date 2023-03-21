@@ -24,11 +24,12 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Assignment
+## About The Project
 
 ![Andrew Choi's Weather Dashboard website](/assets/images/screenshot1.png "screenshot of populated weather data.")
 
 A website that allows users to bring up the weather for the day and for the next five days for the city of their choice! A dashing quokka meteorologist guides the user for a fun experience!
+* Uses the Weather API to bring up accurate weather data.
 * Typing a city name brings up weather data for the day.
 * There is also a five day forecast that populates right underneath the current day's weather.
 * City searches are saved and can be pulled back again after pressing the button on the left.
