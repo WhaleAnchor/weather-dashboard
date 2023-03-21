@@ -19,10 +19,13 @@ header {
 
 body {
     padding-top: 80px;
-    background-color: rgb(254, 254, 235);
     height: 100vh;
     margin: 0px;
     overflow: hidden;
+    background-color: rgb(254, 254, 235);
+    background-image: radial-gradient(rgb(183, 189, 226) 2.2px, transparent 0);
+    background-size: 50px 40px;
+    background-position: 10px -19px;
 }
 
 h1 {
